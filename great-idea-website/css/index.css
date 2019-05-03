@@ -64,3 +64,44 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+h1 {
+    height: 75px;
+    width: 75px;
+    font-size: 50px;
+    display: inline-block;
+    padding: 1px;
+    margin: 1px 200px 1px;
+    border: 1px;
+}
+
+a {
+    margin: 60px;
+    color: gray;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.firstdiv {
+    display: inline-block;
+}
+
+.getstartedbutton {
+    width: 100px;
+    border: 1px solid black;
+    margin: 30px 200px 1px;
+    ;
+    text-align: center;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.copyright {
+}
+
+address {
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+}
